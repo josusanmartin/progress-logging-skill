@@ -1,0 +1,4 @@
+interface:
+  display_name: Progress Logging
+  short_description: Deterministic token, score, performance, SVG, and dashboard logging for measured work.
+  default_prompt: Use the bundled progress logging scripts to initialize work artifacts, record explicit token/time snapshots, append canonical score or performance rows, and render the SVG/HTML dashboard. Do not invent missing token history.
